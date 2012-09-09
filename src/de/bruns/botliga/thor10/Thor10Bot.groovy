@@ -64,7 +64,7 @@ def teams = [
    123 : "TSG 1899 Hoffenheim",
    ]
 
-int matchday = 1
+int matchday = 4
 int matchyear = 2012
 int numberOfMatchdaysToAnalyze = 10
 
